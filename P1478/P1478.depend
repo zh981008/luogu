@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563522548 source:c:\users\zh\documents\luogu\p1478\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+
