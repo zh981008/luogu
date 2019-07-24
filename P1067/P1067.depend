@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1563953713 source:c:\users\zh\documents\luogu\p1067\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+
